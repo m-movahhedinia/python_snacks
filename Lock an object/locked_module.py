@@ -70,4 +70,4 @@ class ConfigureBuild:
         """
         with open(self.config_file, encoding="utf-8") as file:
             # Read the file and do whatever you want to do with it.
-            self.state = "We read the config file and did whatever we wanted to do with it."
+            self.state = "We read the config file and pretended that we did whatever we wanted to do with it."
